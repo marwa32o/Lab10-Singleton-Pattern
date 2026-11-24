@@ -1,4 +1,4 @@
-# Lab Task 09 - Creational Design Patterns: The Singleton Pattern
+# Lab Task 10 - Creational Design Patterns: The Singleton Pattern
 
 **Course:** Software Construction (5th Semester Software Engineering)
 **Institution:** University of Engineering and Technology, Abbottabad Campus
